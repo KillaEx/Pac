@@ -1,0 +1,14 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\eft\bosses\birdeye\head_boss_birdeye_hair_d"
+	"$bumpmap" "models\eft\bosses\birdeye\head_boss_birdeye_hair_n"
+	$alphatest 1	
+
+	$alphatestreference	.35
+
+	"$phong" "1"
+	"$phongexponent" "18"
+//	"$phongalbedotint" "1"
+	"$phongboost" "0.05"
+	"$phongfresnelranges"	"[.3 .3 .3]"
+}

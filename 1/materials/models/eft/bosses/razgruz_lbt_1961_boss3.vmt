@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\eft\bosses\birdeye\razgruz_lbt_1961_boss3_d"
+	"$bumpmap" "models\eft\bosses\birdeye\razgruz_lbt_1961_boss3_n"
+
+	"$phong" "1"
+	"$phongexponenttexture" "models\eft\bosses\birdeye\razgruz_lbt_1961_boss3_g"
+//	"$phongalbedotint" "1"
+	"$phongboost" "1"
+	"$phongfresnelranges"	"[.3 .3 .3]"
+}
